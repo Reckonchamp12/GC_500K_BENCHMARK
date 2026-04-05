@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Data & checkpoints (large files — use Kaggle or DVC)
+*.h5
+*.hdf5
+checkpoints/
+figures/
+
+# Results (keep results/README.md, exclude pickles)
+results/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Weights & Biases
+wandb/
