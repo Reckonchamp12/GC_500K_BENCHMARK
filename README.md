@@ -118,8 +118,6 @@ Recover geometry from a full transmittance spectrum — the most information-ric
 | FT-Transformer | 0.085 | 63.70 | 75.56 | 85.79 | 0.299 | 4.464 |
 | MLP-Mixer | 0.029 | 56.48 | 83.04 | 77.39 | 0.366 | 4.268 |
 | Neural ODE | −1.094 | 25.36 | 30.78 | 122.82 | 0.279 | 4.394 |
-| PINN | −324.16 | 1.826 | 2.014 | — | — | — |
-| Deep Ensemble | — | — | — | — | — | — |
 
 > **Key insight**: Gradient-boosted trees (RF, XGB, LightGBM) dominate this task. Deep learning models underfit despite large training data, likely due to non-smooth geometry–metric relationships.
 
