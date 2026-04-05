@@ -21,7 +21,14 @@
 ## Overview
 
 GC-Bench provides a rigorous, apples-to-apples comparison of machine learning models for **silicon photonic grating coupler design**. Grating couplers are critical interface components for chip-to-fiber coupling, and their inverse design is a canonical hard problem: the mapping from desired optical response to device geometry is **non-unique, high-dimensional, and physically constrained**.
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
 
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
 We benchmark models across four complementary tasks spanning the full forward–inverse design loop on **500,000 simulated grating coupler geometries**.
 
 ```
