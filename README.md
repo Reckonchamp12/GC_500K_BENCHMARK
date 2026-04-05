@@ -406,10 +406,10 @@ If you use GC-Bench in your research, please cite:
 @misc{gcbench2025,
   title     = {GC-Bench: A Comprehensive Machine Learning Benchmark
                for Silicon Grating Coupler Inverse Design},
-  author    = {Ray, Ahulray and et al.},
+  author    = {RD Ray and et al.},
   year      = {2025},
   note      = {GitHub repository},
-  url       = {https://github.com/yourusername/gc-benchmark}
+  url       = {https://github.com/Reckonchamp12/GC_500K_BENCHMARK}
 }
 ```
 
@@ -419,7 +419,7 @@ If you use GC-Bench in your research, please cite:
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
-The dataset is hosted on Kaggle under its respective terms of use.
+The dataset is hosted on Zenodo under its respective terms of use.
 
 ---
 
