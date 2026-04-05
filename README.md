@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
+<img src="Assets/banner.svg" width="100%" alt="GC-Bench Banner"/>
 
 # GC-Bench: A Comprehensive ML Benchmark for Silicon Grating Coupler Design
 
